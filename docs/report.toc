@@ -1,0 +1,20 @@
+\babel@toc {french}{}\relax 
+\contentsline {section}{\numberline {1}Le tracker}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Principe général et architechture}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Les informations stockées par le tracker}{1}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Le tracker : Avant tout un parseur}{1}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Le client}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Architecture globale}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}La classe Connect et les sockets}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Le parsing}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Programmation multithreadée}{5}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}L'envoi de fichier via Map-Filter-Reduce}{5}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Opérations en arrière-plan}{6}{subsubsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.5}Génie logiciel et implémentations}{7}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Le protocole réseau}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Représentation des données}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Clé de fichier}{9}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Logging et gestion des erreurs}{9}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Gestion de projet}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Tests et mocks}{10}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Utilisation des LLMs}{11}{subsection.4.2}%
