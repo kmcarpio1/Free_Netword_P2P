@@ -1,0 +1,3954 @@
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 10:59:31 
+By client
+Message:command parsed is: peers 0284ec0c9a080bec386c25ec4ffd139f 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 11:00:19 
+By client
+Message:command parsed is: peers 0284ec0c9a080bec386c25ec4ffd139f 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 11:03:44 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 11:07:33 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 11:09:49 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 11:13:40 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 11:17:46 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 11:21:26 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 11:22:44 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 11:23:37 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 11:26:42 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 11:28:32 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 11:29:47 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 11:34:00 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 11:37:05 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 1024
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:37:05 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:37:05 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:37:05 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 11:37:13 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 11:37:13 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 11:37:13 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:37:13 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:37:13 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:37:13 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 11:40:23 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 1024
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:40:23 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:40:23 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:40:23 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 11:40:39 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 11:40:39 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 11:40:39 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:40:39 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:40:39 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:40:39 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 11:41:34 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 1024
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:41:34 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:41:34 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:41:34 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 11:41:41 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 11:41:41 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 11:41:41 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:41:41 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:41:41 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:41:41 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 11:52:19 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 1024
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:52:19 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:52:19 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:52:19 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 11:52:24 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 11:52:24 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 11:52:24 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:52:24 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:52:24 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:52:24 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 11:54:49 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 1024
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:54:49 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:54:49 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:54:49 
+By client
+Message:Port : 6666
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 11:54:59 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 1024
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:54:59 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:54:59 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:54:59 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 11:55:03 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 11:55:03 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 11:55:03 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:55:03 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:55:03 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:55:03 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 11:57:08 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 1024
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:57:08 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:57:08 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:57:08 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 11:57:12 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 11:57:12 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 11:57:12 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:57:12 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:57:12 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:57:12 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 11:58:43 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 1024
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:58:43 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:58:43 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:58:43 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 11:58:46 
+By client
+Message:command parsed is: peers System.out.println(size); 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 11:58:46 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 11:58:46 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:58:46 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:58:46 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 11:58:46 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 12:02:53 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 1024
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:02:53 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:02:53 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:02:53 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 12:02:58 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 12:02:58 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 12:02:58 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:02:58 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:02:58 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:02:58 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 12:06:41 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 1024
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:06:41 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:06:41 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:06:41 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 12:06:53 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 12:06:53 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 12:06:53 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:06:53 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:06:53 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:06:53 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 12:09:36 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 1024
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:09:36 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:09:36 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:09:36 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 12:09:46 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 12:09:46 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 12:09:46 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:09:46 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:09:46 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:09:46 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 12:12:12 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 1024
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:12:12 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:12:12 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:12:12 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 12:12:21 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 12:12:21 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 12:12:21 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:12:21 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:12:21 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:12:21 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 12:13:07 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 1024
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:13:07 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:13:07 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:13:07 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 12:13:11 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 12:13:11 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 12:13:11 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:13:11 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:13:11 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:13:11 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 12:13:50 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 1024
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:13:50 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:13:50 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:13:50 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 12:13:53 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 12:13:53 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 12:13:53 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:13:53 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:13:53 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:13:53 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 12:15:10 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 1024
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:15:10 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:15:10 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:15:10 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 12:15:17 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 12:15:17 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 12:15:17 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:15:17 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:15:17 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 12:15:17 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 13:50:02 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 1024
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:50:02 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:50:02 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:50:02 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 13:50:10 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 13:50:10 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 13:50:10 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:50:10 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:50:10 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:50:10 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 13:51:21 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 1024
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:51:21 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:51:21 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:51:21 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 13:51:26 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 13:51:26 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 13:51:26 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:51:26 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:51:26 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:51:26 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 13:52:20 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 1024
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:52:20 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:52:20 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:52:20 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 13:52:27 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 13:52:27 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 13:52:27 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:52:27 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:52:27 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:52:27 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 13:54:37 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 1024
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:54:37 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:54:37 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:54:37 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 13:54:42 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 13:54:42 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 13:54:42 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:54:42 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:54:42 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:54:42 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 13:58:19 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 1024
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:58:19 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:58:19 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:58:19 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 13:58:23 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 13:58:23 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 13:58:23 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:58:23 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:58:23 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:58:23 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 13:59:16 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 1024
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:59:16 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:59:16 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:59:16 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 13:59:24 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 13:59:24 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 13:59:24 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:59:24 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:59:24 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 13:59:24 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 14:04:09 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 1024
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:04:09 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:04:09 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:04:09 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 14:04:19 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 14:04:19 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 14:04:19 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:04:19 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:04:19 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:04:19 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 14:06:47 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 1024
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:06:47 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:06:47 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:06:47 
+By client
+Message:Port : 6666
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 14:09:59 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 1024
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:09:59 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:09:59 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:09:59 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 14:10:02 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 14:10:02 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 14:10:02 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:10:02 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:10:02 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:10:02 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 14:11:12 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 1024
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:11:12 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:11:12 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:11:12 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 14:11:16 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 14:11:16 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 14:11:16 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:11:16 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:11:16 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:11:16 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 14:23:16 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:23:16 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:23:16 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:23:16 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 14:23:20 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 14:23:20 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 14:23:20 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:23:20 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:23:20 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:23:20 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 14:45:23 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:45:23 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:45:23 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:45:23 
+By client
+Message:Port : 6666
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 14:45:33 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:45:33 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:45:33 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:45:33 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 14:45:44 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 14:45:44 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 14:45:44 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:45:44 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:45:44 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 14:45:44 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 15:08:34 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:08:34 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:08:34 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:08:34 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 15:08:39 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 15:08:39 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 15:08:39 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:08:39 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:08:39 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:08:39 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 15:11:45 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:11:45 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:11:45 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:11:45 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 15:12:00 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 15:12:00 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 15:12:00 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:12:00 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:12:00 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:12:00 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 15:12:28 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:12:28 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:12:28 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:12:28 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 15:12:37 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 15:12:37 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 15:12:37 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:12:37 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:12:37 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:12:37 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 15:14:11 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:14:11 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:14:11 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:14:11 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 15:14:14 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 15:14:14 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 15:14:14 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:14:14 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:14:14 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:14:14 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 15:14:57 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:14:57 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:14:57 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:14:57 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 15:15:08 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 15:15:08 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 15:15:08 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:15:08 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:15:08 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:15:08 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 15:16:55 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:16:55 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:16:55 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:16:55 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 15:17:00 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 15:17:00 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 15:17:00 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:17:00 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:17:00 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:17:00 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 15:25:12 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:25:12 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:25:12 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:25:12 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 15:25:16 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 15:25:16 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 15:25:16 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:25:16 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:25:16 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:25:16 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 15:26:09 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:26:09 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:26:09 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:26:09 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 15:26:17 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 15:26:17 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 15:26:17 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:26:17 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:26:17 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:26:17 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 15:30:54 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:30:54 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:30:54 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:30:54 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 15:30:59 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 15:30:59 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 15:30:59 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:30:59 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:30:59 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:30:59 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 15:31:55 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:31:55 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:31:55 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:31:55 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 15:31:59 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 15:31:59 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 15:31:59 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:31:59 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:31:59 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:31:59 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 15:32:38 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:32:38 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:32:38 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:32:38 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 15:32:45 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 15:32:45 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 15:32:45 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:32:45 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:32:45 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:32:45 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 15:51:17 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:51:17 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:51:17 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:51:17 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 15:51:23 
+By client
+Message:command parsed is: peers System.out.println("Peer 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 15:51:23 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 15:51:23 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:51:23 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:51:23 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:51:23 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 15:51:49 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:51:49 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:51:49 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:51:49 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 15:51:51 
+By client
+Message:command parsed is: peers &é"' 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 15:51:51 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 15:51:51 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:51:51 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:51:51 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:51:51 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 15:52:30 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:52:30 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:52:30 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:52:30 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 15:52:33 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 15:52:33 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 15:52:33 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:52:33 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:52:33 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:52:33 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 15:59:58 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:59:58 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:59:58 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 15:59:58 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 16:00:03 
+By client
+Message:command parsed is: peers aze 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 16:00:03 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 16:00:03 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 16:00:03 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 16:00:03 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 16:00:03 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 16:07:07 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 16:07:07 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 16:07:07 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 16:07:07 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 16:07:13 
+By client
+Message:command parsed is: peers azer 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 16:07:13 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 16:07:13 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 16:07:13 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 16:07:13 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 16:07:13 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 12/05/2024 16:10:51 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 16:10:51 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 16:10:51 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 16:10:51 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 16:10:57 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 12/05/2024 16:10:57 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 12/05/2024 16:10:57 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 16:10:57 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 16:10:57 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 12/05/2024 16:10:57 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 13/05/2024 22:44:10 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 13/05/2024 22:44:10 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 13/05/2024 22:44:10 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 13/05/2024 22:44:10 
+By client
+Message:Port : 6666
+
+confing.ConfigClient
+State: EMERGENCY 
+At 13/05/2024 22:45:31 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 13/05/2024 22:45:31 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 13/05/2024 22:45:31 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 13/05/2024 22:45:31 
+By client
+Message:Port : 6666
+
+confing.ConfigClient
+State: EMERGENCY 
+At 13/05/2024 22:45:54 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 13/05/2024 22:45:54 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 13/05/2024 22:45:54 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 13/05/2024 22:45:54 
+By client
+Message:Port : 6666
+
+confing.ConfigClient
+State: EMERGENCY 
+At 14/05/2024 08:02:30 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:02:30 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:02:30 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:02:30 
+By client
+Message:Port : 6666
+
+confing.ConfigClient
+State: EMERGENCY 
+At 14/05/2024 08:26:08 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:26:08 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:26:08 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:26:08 
+By client
+Message:Port : 6666
+
+confing.ConfigClient
+State: EMERGENCY 
+At 14/05/2024 08:26:24 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:26:24 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:26:24 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:26:24 
+By client
+Message:Port : 6666
+
+confing.ConfigClient
+State: EMERGENCY 
+At 14/05/2024 08:26:39 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:26:39 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:26:39 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:26:39 
+By client
+Message:Port : 6666
+
+confing.ConfigClient
+State: EMERGENCY 
+At 14/05/2024 08:31:46 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:31:46 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:31:46 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:31:46 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 14/05/2024 08:32:32 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 )127.0.0.1:6666
+
+confing.ConfigClient
+State: EMERGENCY 
+At 14/05/2024 08:34:34 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:34:34 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:34:34 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:34:34 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 14/05/2024 08:35:06 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 )127.0.0.1:6666
+
+confing.ConfigClient
+State: EMERGENCY 
+At 14/05/2024 08:37:42 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:37:42 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:37:42 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:37:42 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 14/05/2024 08:37:51 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 )127.0.0.1:6666
+
+confing.ConfigClient
+State: EMERGENCY 
+At 14/05/2024 08:38:55 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:38:55 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:38:55 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:38:55 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 14/05/2024 08:39:15 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 )127.0.0.1:6666
+
+confing.ConfigClient
+State: EMERGENCY 
+At 14/05/2024 08:40:13 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:40:13 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:40:13 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:40:13 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 14/05/2024 08:40:20 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 14/05/2024 08:40:20 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:6666
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 14/05/2024 08:40:20 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:40:20 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:40:20 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:40:20 
+By client
+Message:Port : 6666
+
+confing.ConfigClient
+State: EMERGENCY 
+At 14/05/2024 08:45:46 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:45:46 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:45:46 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:45:46 
+By client
+Message:Port : 6666
+
+Server.createServer
+State: EMERGENCY 
+At 14/05/2024 08:45:46 
+By client
+Message:Listen adress already used !
+
+confing.ConfigClient
+State: EMERGENCY 
+At 14/05/2024 08:47:14 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:47:14 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:47:14 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:47:14 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 14/05/2024 08:47:36 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 14/05/2024 08:47:36 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:6666
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 14/05/2024 08:47:36 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:47:36 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:47:36 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:47:36 
+By client
+Message:Port : 6666
+
+confing.ConfigClient
+State: EMERGENCY 
+At 14/05/2024 08:55:39 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:55:39 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:55:39 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:55:39 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 14/05/2024 08:55:50 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 14/05/2024 08:55:50 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:6666
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 14/05/2024 08:55:50 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:55:50 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:55:50 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:55:50 
+By client
+Message:Port : 6666
+
+confing.ConfigClient
+State: EMERGENCY 
+At 14/05/2024 08:57:45 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:57:45 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:57:45 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:57:45 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 14/05/2024 08:57:59 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 14/05/2024 08:57:59 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:6666
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 14/05/2024 08:57:59 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:57:59 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:57:59 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 08:57:59 
+By client
+Message:Port : 6666
+
+confing.ConfigClient
+State: EMERGENCY 
+At 14/05/2024 09:10:28 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:10:28 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:10:28 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:10:28 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 14/05/2024 09:10:53 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 14/05/2024 09:10:53 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:6666
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 14/05/2024 09:10:53 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:10:53 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:10:53 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:10:53 
+By client
+Message:Port : 6666
+
+confing.ConfigClient
+State: EMERGENCY 
+At 14/05/2024 09:12:06 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:12:06 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:12:06 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:12:06 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 14/05/2024 09:12:23 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 14/05/2024 09:12:23 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:6666
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 14/05/2024 09:12:23 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:12:23 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:12:23 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:12:23 
+By client
+Message:Port : 6666
+
+confing.ConfigClient
+State: EMERGENCY 
+At 14/05/2024 09:12:57 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:12:57 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:12:57 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:12:57 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 14/05/2024 09:13:10 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 14/05/2024 09:13:10 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:6666
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 14/05/2024 09:13:10 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:13:10 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:13:10 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:13:10 
+By client
+Message:Port : 6666
+
+confing.ConfigClient
+State: EMERGENCY 
+At 14/05/2024 09:14:13 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:14:13 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:14:13 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:14:13 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 14/05/2024 09:14:21 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 14/05/2024 09:14:21 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 14/05/2024 09:14:21 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:14:21 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:14:21 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:14:21 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 14/05/2024 09:19:04 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:19:04 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:19:04 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:19:04 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 14/05/2024 09:19:11 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 14/05/2024 09:19:11 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 14/05/2024 09:19:11 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:19:11 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:19:11 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:19:11 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 14/05/2024 09:21:46 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:21:46 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:21:46 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:21:46 
+By client
+Message:Port : 6666
+
+confing.ConfigClient
+State: EMERGENCY 
+At 14/05/2024 09:25:48 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:25:48 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:25:48 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:25:48 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 14/05/2024 09:25:58 
+By client
+Message:command parsed is: peers f16a6dde149d2441040e610a11085a09 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 14/05/2024 09:25:58 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 14/05/2024 09:25:58 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:25:58 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:25:58 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:25:58 
+By client
+Message:Port : 2222
+
+confing.ConfigClient
+State: EMERGENCY 
+At 14/05/2024 09:27:22 
+By client
+Message:creation of the client with fields :
+ trackerIport : 127.0.0.1:6666
+listenPort : 4000
+pieceSize : 2048
+newpath : ./files/
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:27:22 
+By client
+Message:IpPort I want to connect : 127.0.0.1:6666
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:27:22 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:27:22 
+By client
+Message:Port : 6666
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 14/05/2024 09:27:36 
+By client
+Message:command parsed is: peers 0284ec0c9a080bec386c25ec4ffd139f 127.0.0.1:2222
+
+GetFile.parseResponse
+State: EMERGENCY 
+At 14/05/2024 09:27:36 
+By client
+Message:getting the elements of the ipPortList : 127.0.0.1:2222
+
+ClientStandard.connectTo
+State: EMERGENCY 
+At 14/05/2024 09:27:36 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:27:36 
+By client
+Message:IpPort I want to connect : 127.0.0.1:2222
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:27:36 
+By client
+Message:Inet adress : /127.0.0.1
+
+Connect.createConnection
+State: EMERGENCY 
+At 14/05/2024 09:27:36 
+By client
+Message:Port : 2222
+
